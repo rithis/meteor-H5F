@@ -1,0 +1,8 @@
+{
+    "name": "H5F",
+    "description": "a JavaScript library that allows you to use the HTML5 Forms chapters new field input types, attributes and constraint validation API in non-supporting browsers",
+    "homepage": "https://github.com/rithis/meteor-H5F",
+    "author": "Vyacheslav Slinko <vyacheslav.slinko@gmail.com>",
+    "version": "1.0.0",
+    "git": "https://github.com/rithis/meteor-H5F"
+}
